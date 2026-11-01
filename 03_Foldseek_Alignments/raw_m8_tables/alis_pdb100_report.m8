@@ -1,0 +1,224 @@
+100.0000	73	0	no rank	1	root
+95.8904	70	0	no rank	131567	  cellular organisms
+56.1644	41	0	superkingdom	2759	    Eukaryota
+47.9452	35	0	clade	33154	      Opisthokonta
+43.8356	32	0	kingdom	33208	        Metazoa
+43.8356	32	0	clade	6072	          Eumetazoa
+43.8356	32	0	clade	33213	            Bilateria
+43.8356	32	0	clade	33511	              Deuterostomia
+43.8356	32	0	phylum	7711	                Chordata
+43.8356	32	0	subphylum	89593	                  Craniata
+43.8356	32	0	clade	7742	                    Vertebrata
+43.8356	32	0	clade	7776	                      Gnathostomata
+43.8356	32	0	clade	117570	                        Teleostomi
+43.8356	32	0	clade	117571	                          Euteleostomi
+43.8356	32	0	superclass	8287	                            Sarcopterygii
+43.8356	32	0	clade	1338369	                              Dipnotetrapodomorpha
+43.8356	32	0	clade	32523	                                Tetrapoda
+43.8356	32	0	clade	32524	                                  Amniota
+43.8356	32	0	class	40674	                                    Mammalia
+43.8356	32	0	clade	32525	                                      Theria
+43.8356	32	0	clade	9347	                                        Eutheria
+43.8356	32	0	clade	1437010	                                          Boreoeutheria
+43.8356	32	0	superorder	314146	                                            Euarchontoglires
+42.4658	31	0	order	9443	                                              Primates
+42.4658	31	0	suborder	376913	                                                Haplorrhini
+42.4658	31	0	infraorder	314293	                                                  Simiiformes
+42.4658	31	0	parvorder	9526	                                                    Catarrhini
+42.4658	31	0	superfamily	314295	                                                      Hominoidea
+42.4658	31	0	family	9604	                                                        Hominidae
+42.4658	31	0	subfamily	207598	                                                          Homininae
+42.4658	31	0	genus	9605	                                                            Homo
+42.4658	31	31	species	9606	                                                              Homo sapiens
+1.3699	1	0	clade	314147	                                              Glires
+1.3699	1	0	order	9989	                                                Rodentia
+1.3699	1	0	suborder	1963758	                                                  Myomorpha
+1.3699	1	0	clade	337687	                                                    Muroidea
+1.3699	1	0	family	10066	                                                      Muridae
+1.3699	1	0	subfamily	39107	                                                        Murinae
+1.3699	1	0	genus	10088	                                                          Mus
+1.3699	1	0	subgenus	862507	                                                            Mus
+1.3699	1	1	species	10090	                                                              Mus musculus
+4.1096	3	0	kingdom	4751	        Fungi
+4.1096	3	0	subkingdom	451864	          Dikarya
+4.1096	3	0	phylum	4890	            Ascomycota
+4.1096	3	0	clade	716545	              saccharomyceta
+2.7397	2	0	subphylum	147538	                Pezizomycotina
+2.7397	2	0	clade	716546	                  leotiomyceta
+2.7397	2	0	clade	715989	                    sordariomyceta
+2.7397	2	0	class	147550	                      Sordariomycetes
+2.7397	2	0	subclass	222544	                        Sordariomycetidae
+2.7397	2	0	order	5139	                          Sordariales
+2.7397	2	0	family	35718	                            Chaetomiaceae
+2.7397	2	0	genus	2944547	                              Thermochaetoides
+2.7397	2	0	species	209285	                                Thermochaetoides thermophila
+2.7397	2	2	strain	759272	                                  Thermochaetoides thermophila DSM 1495
+1.3699	1	0	subphylum	147537	                Saccharomycotina
+1.3699	1	0	class	4891	                  Saccharomycetes
+1.3699	1	0	order	4892	                    Saccharomycetales
+1.3699	1	0	family	115784	                      Phaffomycetaceae
+1.3699	1	0	genus	460517	                        Komagataella
+1.3699	1	1	species	460519	                          Komagataella phaffii
+6.8493	5	0	clade	2698737	      Sar
+6.8493	5	0	clade	33630	        Alveolata
+5.4795	4	0	phylum	5794	          Apicomplexa
+4.1096	3	0	class	422676	            Aconoidasida
+4.1096	3	0	order	5819	              Haemosporida
+4.1096	3	0	family	1639119	                Plasmodiidae
+4.1096	3	0	genus	5820	                  Plasmodium
+4.1096	3	0	subgenus	418107	                    Plasmodium (Laverania)
+4.1096	3	0	species	5833	                      Plasmodium falciparum
+4.1096	3	3	strain	186763	                        Plasmodium falciparum FcB1/Columbia
+1.3699	1	0	class	1280412	            Conoidasida
+1.3699	1	0	subclass	5796	              Coccidia
+1.3699	1	0	order	75739	                Eucoccidiorida
+1.3699	1	0	suborder	423054	                  Eimeriorina
+1.3699	1	0	family	5809	                    Sarcocystidae
+1.3699	1	0	genus	5810	                      Toxoplasma
+1.3699	1	0	species	5811	                        Toxoplasma gondii
+1.3699	1	1	strain	508771	                          Toxoplasma gondii ME49
+1.3699	1	0	phylum	5878	          Ciliophora
+1.3699	1	0	subphylum	431838	            Intramacronucleata
+1.3699	1	0	class	6020	              Oligohymenophorea
+1.3699	1	0	order	31277	                Hymenostomatida
+1.3699	1	0	suborder	37093	                  Tetrahymenina
+1.3699	1	0	family	291294	                    Tetrahymenidae
+1.3699	1	0	genus	5890	                      Tetrahymena
+1.3699	1	1	species	5911	                        Tetrahymena thermophila
+1.3699	1	0	kingdom	33090	      Viridiplantae
+1.3699	1	0	phylum	35493	        Streptophyta
+1.3699	1	0	subphylum	131221	          Streptophytina
+1.3699	1	0	clade	3193	            Embryophyta
+1.3699	1	0	clade	58023	              Tracheophyta
+1.3699	1	0	clade	78536	                Euphyllophyta
+1.3699	1	0	clade	58024	                  Spermatophyta
+1.3699	1	0	class	3398	                    Magnoliopsida
+1.3699	1	0	clade	1437183	                      Mesangiospermae
+1.3699	1	0	clade	71240	                        eudicotyledons
+1.3699	1	0	clade	91827	                          Gunneridae
+1.3699	1	0	clade	1437201	                            Pentapetalae
+1.3699	1	0	clade	71275	                              rosids
+1.3699	1	0	clade	91835	                                fabids
+1.3699	1	0	order	72025	                                  Fabales
+1.3699	1	0	family	3803	                                    Fabaceae
+1.3699	1	0	subfamily	3814	                                      Papilionoideae
+1.3699	1	0	clade	2231393	                                        50 kb inversion clade
+1.3699	1	0	clade	2231382	                                          NPAAA clade
+1.3699	1	0	clade	2233838	                                            Hologalegina
+1.3699	1	0	clade	2233839	                                              IRL clade
+1.3699	1	0	tribe	163743	                                                Fabeae
+1.3699	1	0	genus	3887	                                                  Pisum
+1.3699	1	1	species	3888	                                                    Pisum sativum
+36.9863	27	0	superkingdom	2	    Bacteria
+19.1781	14	0	phylum	1224	      Pseudomonadota
+8.2192	6	0	class	1236	        Gammaproteobacteria
+4.1096	3	0	order	91347	          Enterobacterales
+4.1096	3	0	family	543	            Enterobacteriaceae
+4.1096	3	0	genus	561	              Escherichia
+4.1096	3	1	species	562	                Escherichia coli
+1.3699	1	1	strain	469008	                  Escherichia coli BL21(DE3)
+1.3699	1	0	strain	83333	                  Escherichia coli K-12
+1.3699	1	1	no rank	511145	                    Escherichia coli str. K-12 substr. MG1655
+1.3699	1	0	order	135623	          Vibrionales
+1.3699	1	0	family	641	            Vibrionaceae
+1.3699	1	0	genus	662	              Vibrio
+1.3699	1	0	species	666	                Vibrio cholerae
+1.3699	1	0	serogroup	127906	                  Vibrio cholerae O1
+1.3699	1	0	no rank	686	                    Vibrio cholerae O1 biovar El Tor
+1.3699	1	1	strain	243277	                      Vibrio cholerae O1 biovar El Tor str. N16961
+1.3699	1	0	order	135622	          Alteromonadales
+1.3699	1	0	family	267893	            Idiomarinaceae
+1.3699	1	0	genus	135575	              Idiomarina
+1.3699	1	0	species	135577	                Idiomarina loihiensis
+1.3699	1	1	strain	283942	                  Idiomarina loihiensis L2TR
+1.3699	1	0	order	72273	          Thiotrichales
+1.3699	1	0	family	34064	            Francisellaceae
+1.3699	1	0	genus	262	              Francisella
+1.3699	1	0	species	263	                Francisella tularensis
+1.3699	1	0	subspecies	119856	                  Francisella tularensis subsp. tularensis
+1.3699	1	1	strain	177416	                    Francisella tularensis subsp. tularensis SCHU S4
+5.4795	4	0	class	28216	        Betaproteobacteria
+5.4795	4	0	order	206351	          Neisseriales
+4.1096	3	0	family	481	            Neisseriaceae
+4.1096	3	0	genus	482	              Neisseria
+2.7397	2	0	species	487	                Neisseria meningitidis
+1.3699	1	0	serogroup	491	                  Neisseria meningitidis serogroup B
+1.3699	1	1	strain	122586	                    Neisseria meningitidis MC58
+1.3699	1	0	serogroup	135720	                  Neisseria meningitidis serogroup C
+1.3699	1	1	strain	272831	                    Neisseria meningitidis FAM18
+1.3699	1	1	species	485	                Neisseria gonorrhoeae
+1.3699	1	0	family	1499392	            Chromobacteriaceae
+1.3699	1	0	genus	535	              Chromobacterium
+1.3699	1	0	species	536	                Chromobacterium violaceum
+1.3699	1	1	strain	243365	                  Chromobacterium violaceum ATCC 12472
+5.4795	4	0	class	28211	        Alphaproteobacteria
+4.1096	3	0	order	204441	          Rhodospirillales
+4.1096	3	0	family	41295	            Rhodospirillaceae
+4.1096	3	0	genus	13134	              Magnetospirillum
+4.1096	3	3	species	55518	                Magnetospirillum gryphiswaldense
+1.3699	1	0	order	204457	          Sphingomonadales
+1.3699	1	0	family	2844881	            Zymomonadaceae
+1.3699	1	0	genus	541	              Zymomonas
+1.3699	1	0	species	542	                Zymomonas mobilis
+1.3699	1	0	subspecies	120045	                  Zymomonas mobilis subsp. mobilis
+1.3699	1	1	strain	264203	                    Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+16.4384	12	0	clade	1783272	      Terrabacteria group
+13.6986	10	0	phylum	1239	        Bacillota
+12.3288	9	0	class	91061	          Bacilli
+12.3288	9	0	order	186826	            Lactobacillales
+12.3288	9	0	family	1300	              Streptococcaceae
+12.3288	9	0	genus	1301	                Streptococcus
+10.9589	8	0	species	1313	                  Streptococcus pneumoniae
+10.9589	8	8	strain	170187	                    Streptococcus pneumoniae TIGR4
+1.3699	1	1	species	1302	                  Streptococcus gordonii
+1.3699	1	0	class	186801	          Clostridia
+1.3699	1	0	order	186802	            Eubacteriales
+1.3699	1	0	family	31979	              Clostridiaceae
+1.3699	1	0	genus	1769729	                Hathewaya
+1.3699	1	1	species	1498	                  Hathewaya histolytica
+1.3699	1	0	phylum	544448	        Mycoplasmatota
+1.3699	1	0	order	2790996	          Mycoplasmoidales
+1.3699	1	0	family	2790998	            Mycoplasmoidaceae
+1.3699	1	0	genus	2995234	              Mycoplasmoides
+1.3699	1	0	species	2104	                Mycoplasmoides pneumoniae
+1.3699	1	1	strain	272634	                  Mycoplasmoides pneumoniae M129
+1.3699	1	0	clade	1798711	        Cyanobacteriota/Melainabacteria group
+1.3699	1	0	phylum	1117	          Cyanobacteriota
+1.3699	1	0	class	3028117	            Cyanophyceae
+1.3699	1	0	order	1890424	              Synechococcales
+1.3699	1	0	family	1890426	                Synechococcaceae
+1.3699	1	0	genus	1129	                  Synechococcus
+1.3699	1	0	species	32046	                    Synechococcus elongatus
+1.3699	1	1	strain	1140	                      Synechococcus elongatus PCC 7942 = FACHB-805
+1.3699	1	0	phylum	2818505	      Myxococcota
+1.3699	1	0	class	32015	        Myxococcia
+1.3699	1	0	order	29	          Myxococcales
+1.3699	1	0	suborder	80811	            Cystobacterineae
+1.3699	1	0	family	31	              Myxococcaceae
+1.3699	1	0	genus	32	                Myxococcus
+1.3699	1	1	species	33	                  Myxococcus fulvus
+2.7397	2	0	superkingdom	2157	    Archaea
+1.3699	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+1.3699	1	0	class	183967	        Thermoplasmata
+1.3699	1	0	order	2301	          Thermoplasmatales
+1.3699	1	0	family	46659	            Thermoplasmataceae
+1.3699	1	0	genus	2302	              Thermoplasma
+1.3699	1	1	species	2303	                Thermoplasma acidophilum
+1.3699	1	0	clade	1783275	      TACK group
+1.3699	1	0	phylum	28889	        Thermoproteota
+1.3699	1	0	class	183924	          Thermoprotei
+1.3699	1	0	order	114380	            Desulfurococcales
+1.3699	1	0	family	2272	              Desulfurococcaceae
+1.3699	1	0	genus	56635	                Aeropyrum
+1.3699	1	1	species	56636	                  Aeropyrum pernix
+4.1096	3	0	superkingdom	10239	  Viruses
+2.7397	2	0	no rank	12429	    unclassified viruses
+2.7397	2	2	species	1925777	      Biggievirus Mos11
+1.3699	1	0	clade	2559587	    Riboviria
+1.3699	1	0	kingdom	2732396	      Orthornavirae
+1.3699	1	0	phylum	2732407	        Lenarviricota
+1.3699	1	0	class	2842243	          Leviviricetes
+1.3699	1	0	order	2842247	            Norzivirales
+1.3699	1	0	family	2842319	              Fiersviridae
+1.3699	1	0	no rank	2852980	                unclassified Fiersviridae
+1.3699	1	1	species	2027243	                  Leviviridae sp.

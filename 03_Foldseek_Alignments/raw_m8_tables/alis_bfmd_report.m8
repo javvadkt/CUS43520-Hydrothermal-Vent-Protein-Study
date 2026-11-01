@@ -1,0 +1,43 @@
+94.2857	33	0	no rank	1	root
+94.2857	33	0	no rank	131567	  cellular organisms
+94.2857	33	0	superkingdom	2759	    Eukaryota
+94.2857	33	0	clade	33154	      Opisthokonta
+85.7143	30	0	kingdom	33208	        Metazoa
+85.7143	30	0	clade	6072	          Eumetazoa
+85.7143	30	0	clade	33213	            Bilateria
+85.7143	30	0	clade	33511	              Deuterostomia
+85.7143	30	0	phylum	7711	                Chordata
+85.7143	30	0	subphylum	89593	                  Craniata
+85.7143	30	0	clade	7742	                    Vertebrata
+85.7143	30	0	clade	7776	                      Gnathostomata
+85.7143	30	0	clade	117570	                        Teleostomi
+85.7143	30	0	clade	117571	                          Euteleostomi
+85.7143	30	0	superclass	8287	                            Sarcopterygii
+85.7143	30	0	clade	1338369	                              Dipnotetrapodomorpha
+85.7143	30	0	clade	32523	                                Tetrapoda
+85.7143	30	0	clade	32524	                                  Amniota
+85.7143	30	0	class	40674	                                    Mammalia
+85.7143	30	0	clade	32525	                                      Theria
+85.7143	30	0	clade	9347	                                        Eutheria
+85.7143	30	0	clade	1437010	                                          Boreoeutheria
+85.7143	30	0	superorder	314146	                                            Euarchontoglires
+85.7143	30	0	order	9443	                                              Primates
+85.7143	30	0	suborder	376913	                                                Haplorrhini
+85.7143	30	0	infraorder	314293	                                                  Simiiformes
+85.7143	30	0	parvorder	9526	                                                    Catarrhini
+85.7143	30	0	superfamily	314295	                                                      Hominoidea
+85.7143	30	0	family	9604	                                                        Hominidae
+85.7143	30	0	subfamily	207598	                                                          Homininae
+85.7143	30	0	genus	9605	                                                            Homo
+85.7143	30	30	species	9606	                                                              Homo sapiens
+8.5714	3	0	kingdom	4751	        Fungi
+8.5714	3	0	subkingdom	451864	          Dikarya
+8.5714	3	0	phylum	4890	            Ascomycota
+8.5714	3	0	clade	716545	              saccharomyceta
+8.5714	3	0	subphylum	147537	                Saccharomycotina
+8.5714	3	0	class	4891	                  Saccharomycetes
+8.5714	3	0	order	4892	                    Saccharomycetales
+8.5714	3	0	family	4893	                      Saccharomycetaceae
+8.5714	3	0	genus	4930	                        Saccharomyces
+8.5714	3	0	species	4932	                          Saccharomyces cerevisiae
+8.5714	3	3	strain	559292	                            Saccharomyces cerevisiae S288C

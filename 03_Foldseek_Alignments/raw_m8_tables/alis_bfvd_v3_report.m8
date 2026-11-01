@@ -1,0 +1,129 @@
+100.0000	51	0	no rank	1	root
+100.0000	51	0	acellular root	10239	  Viruses
+50.9804	26	0	realm	2731341	    Duplodnaviria
+50.9804	26	0	kingdom	2731360	      Heunggongvirae
+50.9804	26	0	phylum	2731618	        Uroviricota
+50.9804	26	0	class	2731619	          Caudoviricetes
+15.6863	8	0	no rank	2788787	            unclassified Caudoviricetes
+1.9608	1	1	species	3128131	              Dolichospermum phage Dfl-JY23
+1.9608	1	1	species	2825570	              Siphoviridae sp. ctcC24
+1.9608	1	1	species	1754209	              Aeromonas phage phiARM81mr
+1.9608	1	1	species	1677909	              Peptoclostridium phage phiCDIF1296T
+1.9608	1	1	species	2899278	              Acinetobacter phage MD-2021a
+1.9608	1	1	species	2813174	              Roseobacter phage CRP-9
+1.9608	1	1	species	2826669	              Myoviridae sp. ctcPl3
+1.9608	1	1	species	2711164	              Vibrio phage vB_VcorM_GR11A
+13.7255	7	0	order	3420545	            Pantevenvirales
+11.7647	6	0	family	2169529	              Ackermannviridae
+7.8431	4	0	subfamily	2169531	                Cvivirinae
+7.8431	4	0	genus	2169536	                  Kuttervirus
+1.9608	1	0	species	2846097	                    Kuttervirus S118
+1.9608	1	1	no rank	2231347	                      Salmonella phage S118
+1.9608	1	0	species	2846127	                    Kuttervirus bering
+1.9608	1	1	no rank	2713281	                      Salmonella phage bering
+1.9608	1	0	species	2846090	                    Kuttervirus BSP101
+1.9608	1	1	no rank	1958914	                      Salmonella phage BSP101
+1.9608	1	0	species	2846094	                    Kuttervirus mutine
+1.9608	1	1	no rank	2054274	                      Salmonella phage Mutine
+3.9216	2	0	subfamily	2169530	                Aglimvirinae
+3.9216	2	0	no rank	2562724	                  unclassified Aglimvirinae
+1.9608	1	1	species	1542132	                    Dickeya phage phiDP10.3
+1.9608	1	1	species	1542133	                    Dickeya phage phiDP23.1
+1.9608	1	0	family	2946160	              Kyanoviridae
+1.9608	1	0	genus	3044869	                Zhoulongquanvirus
+1.9608	1	0	species	3060828	                  Zhoulongquanvirus esscess
+1.9608	1	1	no rank	2588487	                    Synechococcus phage S-SCSM1
+5.8824	3	0	genus	2948946	            Veracruzvirus
+5.8824	3	0	no rank	2961396	              unclassified Veracruzvirus
+1.9608	1	1	species	2998989	                Mycobacterium phage BlueBird
+1.9608	1	1	species	2126956	                Mycobacterium phage TNguyen7
+1.9608	1	1	species	2126723	                Mycobacterium phage Puppy
+5.8824	3	0	family	2946167	            Peduoviridae
+5.8824	3	0	genus	2948815	              Maltschvirus
+5.8824	3	0	species	2956182	                Maltschvirus maltsch
+5.8824	3	3	no rank	2100421	                  uncultured Caudovirales phage
+3.9216	2	0	family	3152113	            Chimalliviridae
+1.9608	1	0	genus	2560216	              Risingsunvirus
+1.9608	1	0	species	2560435	                Risingsunvirus risingsun
+1.9608	1	1	no rank	2026081	                  Erwinia phage vB_EamM_Joad
+1.9608	1	0	genus	3044840	              Tepukevirus
+1.9608	1	0	species	3060728	                Tepukevirus Psa21
+1.9608	1	1	no rank	2530023	                  Pseudomonas phage Psa21
+1.9608	1	0	subfamily	3700663	            Durvirinae
+1.9608	1	0	genus	3700779	              Ligmavirus
+1.9608	1	0	species	3703106	                Ligmavirus mariokart
+1.9608	1	1	no rank	2759455	                  Gordonia phage Mariokart
+1.9608	1	0	genus	2560132	            Fipvunavirus
+1.9608	1	0	species	2560475	              Fipvunavirus Fpv1
+1.9608	1	1	no rank	1814282	                Flavobacterium phage Fpv2
+1.9608	1	0	subfamily	2842528	            Queuovirinae
+1.9608	1	0	no rank	2853007	              unclassified Queuovirinae
+1.9608	1	1	species	2759205	                Vibrio phage vB_VnaS-AQKL99
+25.4902	13	0	realm	2559587	    Riboviria
+25.4902	13	0	kingdom	2732396	      Orthornavirae
+25.4902	13	0	phylum	2732407	        Lenarviricota
+25.4902	13	0	class	2842243	          Leviviricetes
+23.5294	12	0	order	2842247	            Norzivirales
+23.5294	12	0	family	2842319	              Fiersviridae
+19.6078	10	0	genus	2842995	                Qubevirus
+19.6078	10	7	species	39804	                  Qubevirus faecium
+5.8824	3	3	no rank	12027	                    Enterobacteria phage SP
+3.9216	2	0	no rank	2852980	                unclassified Fiersviridae
+3.9216	2	2	species	2027243	                  Leviviridae sp.
+1.9608	1	0	order	2842249	            Timlovirales
+1.9608	1	0	family	2842332	              Steitzviridae
+1.9608	1	0	genus	3153187	                Giliycovirus
+1.9608	1	0	species	3429062	                  Giliycovirus tellurivivens
+1.9608	1	0	no rank	2846651	                    Weheuvirus tellurivivens
+1.9608	1	1	no rank	2786357	                      ssRNA phage Gerhypos.4_53
+13.7255	7	0	realm	2732004	    Varidnaviria
+13.7255	7	0	kingdom	2732005	      Bamfordvirae
+13.7255	7	0	phylum	2732007	        Nucleocytoviricota
+13.7255	7	0	class	2732523	          Megaviricetes
+11.7647	6	0	order	2732554	            Imitervirales
+7.8431	4	0	suborder	3700712	              Orthomivirineae
+7.8431	4	0	family	549779	                Mimiviridae
+5.8824	3	0	subfamily	3044648	                  Megamimivirinae
+1.9608	1	0	genus	2094720	                    Tupanvirus
+1.9608	1	0	species	3060758	                      Tupanvirus salinum
+1.9608	1	1	no rank	2126985	                        Tupanvirus soda lake
+1.9608	1	0	genus	3044761	                    Megavirus
+1.9608	1	0	no rank	3068396	                      unclassified Megavirus
+1.9608	1	1	species	2109586	                        Megavirus sp. 'vitis'
+1.9608	1	0	genus	315393	                    Mimivirus
+1.9608	1	0	species	3047343	                      Mimivirus bradfordmassiliense
+1.9608	1	1	no rank	212035	                        Acanthamoeba polyphaga mimivirus
+1.9608	1	0	subfamily	1977630	                  Klosneuvirinae
+1.9608	1	0	no rank	2788772	                    unclassified Klosneuvirinae
+1.9608	1	0	genus	1977632	                      Indivirus
+1.9608	1	1	species	1977633	                        Indivirus ILV1
+3.9216	2	0	suborder	3700714	              Paramivirineae
+3.9216	2	0	family	3044470	                Mesomimiviridae
+1.9608	1	0	genus	3044841	                  Tethysvirus
+1.9608	1	0	species	3060731	                    Tethysvirus ontarioense
+1.9608	1	1	no rank	3070831	                      Chrysochromulina parva virus BQ2
+1.9608	1	0	genus	3700120	                  Criusvirus
+1.9608	1	0	species	3702751	                    Criusvirus kaneoense
+1.9608	1	1	no rank	3240092	                      Florenciella sp. virus SA2
+1.9608	1	0	order	2732524	            Algavirales
+1.9608	1	0	family	10501	              Phycodnaviridae
+1.9608	1	0	genus	181083	                Chlorovirus
+1.9608	1	0	subgenus	3700929	                  Betachlorovirus
+1.9608	1	0	species	3427928	                    Chlorovirus conductrix
+1.9608	1	0	no rank	381899	                      Paramecium bursaria Chlorella virus A1
+1.9608	1	1	no rank	399781	                        Paramecium bursaria Chlorella virus FR483
+3.9216	2	0	no rank	12333	    unclassified bacterial viruses
+1.9608	1	1	species	2985243	      Ochrobactrum phage ORM_20
+1.9608	1	1	species	2827626	      virus sp. ctHG14
+3.9216	2	0	no rank	12429	    unclassified viruses
+3.9216	2	0	no rank	2204151	      unclassified DNA viruses
+3.9216	2	0	no rank	51368	        unclassified dsDNA viruses
+1.9608	1	0	genus	2060084	          Pandoravirus
+1.9608	1	1	species	1349410	            Pandoravirus salinus
+1.9608	1	1	species	2487774	          Sylvanvirus sp.
+1.9608	1	0	class	2840056	    Naldaviricetes
+1.9608	1	0	order	2840070	      Lefavirales
+1.9608	1	0	family	10442	        Baculoviridae
+1.9608	1	0	genus	558016	          Alphabaculovirus
+1.9608	1	0	species	3047759	            Alphabaculovirus clabilineatae
+1.9608	1	1	no rank	1307957	              Clanis bilineata nucleopolyhedrovirus
